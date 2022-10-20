@@ -1,0 +1,10 @@
+ptint('--------------------------------')
+print('>>>>Menghitung Volume Tabung<<<<')
+print('================================')
+phi=float(input('Masukan phi         :'))
+jari_jari=float(input('Masukan jari jari :'))
+tinggi=float(input('Masukan tinggi   :'))
+volume-phi * (jari-jari**2) * tinggi
+print('===============================')
+print('>>>>>>>Hasil perhitungan<<<<<<<')
+print('Volume tabung    ', volume')
